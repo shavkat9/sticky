@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container {
+    height: 1000px;
+    display: flex;
+    background-color: blue;
+    flex-direction: column;
+    padding: 20px;
+}
+.element1 {
+    background-color: green;
+    padding: 20px;
+    color: #fff;
+    border: 1px solid #000;
+    position: sticky;
+    top: 10px;
+}
+.element2 {
+    background-color: pink;
+    padding: 20px;
+    color: #fff;
+}
+.element3 {
+    background-color: yellow;
+    padding: 20px;
+    color: #fff;
+}
